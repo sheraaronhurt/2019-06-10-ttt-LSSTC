@@ -4,7 +4,7 @@ root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "us"      # lowercase two-letter ISO country code such as "fr" fr(see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 humandate: "June 10-11, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 6:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "9:00 am - 6:00 pm (lunch time to match the conference)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-06-10      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-06-11        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Elizabeth Wickes, Sher! Hurt"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -213,7 +213,7 @@ for more information.
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
 <p>
-  Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
+  Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule. Please note that the schedule on the linked page is for a general training. Your instructors will be working to align this workshop's schedule with the larger conference schedule. Please refer to your instructors, class announcements, and etherpad for more information when it is available.
 </p>
 
 
