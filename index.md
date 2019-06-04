@@ -14,8 +14,8 @@ etherpad: https://pad.carpentries.org/2019-06-10-ttt-LSSTC            # optional
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
    - venue: "Carnegie Mellon University"
-    address: "Room ?, ?, Pittsburg, PA"
-    latlng: "?,?"
+    address: "Room , , Pittsburg, PA"
+    latlng: ","
 
 ---
 
