@@ -15,7 +15,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 locations:
    venue: "Carnegie Mellon University"
    address: "LSSTC @ Carnegie Mellon Unviersity"
-   latlng: ","
+   latlng: ""
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
