@@ -13,9 +13,13 @@ contact: ["amiller@northwestern.edu", "sheraaron@carpentries.org"]    # boxed, c
 etherpad: https://pad.carpentries.org/2019-06-10-ttt-LSSTC            # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
-   venue: "Carnegie Mellon University"
-   address: "Carnegie Mellon Unviersity, Doherty Hall A301D"
-   latlng: "40.310830, -78.881320"
+   - venue: "Online"
+    address: "https://carpentries.zoom.us/j/FIXME"
+
+  - venue: "Carnegie Mellon University"
+    address: "Doherty Hall A301D, Hamerschlag Dr, Pittsburgh, PA"
+    latlng: "40.442960,-79.946330"
+    
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
@@ -98,7 +102,7 @@ locations:
   -->
 <h3 id="where">Where</h3>
 
-{% assign inperson = "false" %}
+{% assign inperson = "true" %}
 {% for loc in page.locations %}
 
 {% capture online %}{{ loc.venue | downcase }}{% endcapture %}
