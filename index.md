@@ -14,8 +14,8 @@ etherpad: https://pad.carpentries.org/2019-06-10-ttt-LSSTC            # optional
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
    venue: "Carnegie Mellon University"
-   address: "LSSTC @ Carnegie Mellon Unviersity"
-   latlng: ""
+   address: "Carnegie Mellon Unviersity, Doherty Hall A301D"
+   latlng: "40.310830, -78.881320"
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
